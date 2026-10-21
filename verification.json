@@ -1,0 +1,25 @@
+{
+  "video": "thirty-second-edit.mp4",
+  "bytes": 1102932,
+  "sha256": "9a676bc75e62e901b85a4286178ce48016584e6f758a396a8572887a87ba8322",
+  "video_duration_seconds": 30,
+  "frames_decoded": 720,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "audio_decoded_seconds": 30.016,
+  "decoded_audio_peak": 0.8364481925964355,
+  "checked_audio_accents": 59,
+  "maximum_accent_offset_seconds": 0.0016458333333333333,
+  "largest_text_width_pixels": 739.796875,
+  "caption_safe_area_passed": true,
+  "full_video_audio_decode_passed": true,
+  "original_media": true,
+  "ai_assisted": true
+}

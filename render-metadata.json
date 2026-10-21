@@ -1,0 +1,41 @@
+{
+  "duration": 30,
+  "fps": 24,
+  "frames": 720,
+  "width": 1280,
+  "height": 720,
+  "bytes": 1102932,
+  "sha256": "9a676bc75e62e901b85a4286178ce48016584e6f758a396a8572887a87ba8322",
+  "transition_starts": [
+    5,
+    10,
+    15,
+    20,
+    25
+  ],
+  "transition_types": [
+    "dissolve",
+    "directional wipe",
+    "dissolve",
+    "directional wipe",
+    "dissolve"
+  ],
+  "transition_duration": 1,
+  "original_procedural_media": true,
+  "ai_assisted": true,
+  "audio_source": {
+    "sample_rate": 48000,
+    "channels": 2,
+    "samples": 1440000,
+    "peak": 0.3351155400146744,
+    "rms": 0.04696700203714259,
+    "bpm": 120,
+    "beats": 60
+  },
+  "audio_output": {
+    "gain": 1.8,
+    "channels": 2,
+    "sample_rate": 48000,
+    "codec": "aac"
+  }
+}
